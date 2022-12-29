@@ -20,7 +20,8 @@ mod components;
 mod router;
 mod test;
 mod utils;
-
+mod specific_hooks;
+use specific_hooks::*;
 
 #[wasm_bindgen]
 pub fn run() {
