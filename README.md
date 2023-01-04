@@ -54,7 +54,7 @@ This app is Notion.so clone, roamresearch clone and obsidian clone. The main pur
     - [notion clone](https://github.com/aliscie/Notion.so-clone)
     - [second notion clone](https://github.com/aliscie/notion-clone-1)
     - [Other experment](https://github.com/AlenSci/autodox-1)
-    - [experiment 2](https://github.com/aliscie/Learning-webstack-from-cloning-notion.so) 
+    - [Notion clone experment with slatejs](https://github.com/aliscie/Learning-webstack-from-cloning-notion.so) 
     - [experiment 3](https://github.com/AlenSci/autodox1) [also see demo](https://www.youtube.com/watch?v=zXdL4B73Rkc) [and this](https://www.youtube.com/playlist?list=PLZ54FkZk9dwGrJSxLIm4-NLvHlhyQKL6T)
     - [experiment 4](https://github.com/AlenSci/autodox) 
     - [experiment 5](https://github.com/aliscie/autodox-rust)
